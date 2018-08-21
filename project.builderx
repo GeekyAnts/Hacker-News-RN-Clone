@@ -1,0 +1,27 @@
+{
+    "artboards": [
+        "/src/screens/LandingPage.js",
+        "/src/screens/CommentsPage.js"
+    ],
+    "symbols": [
+        "/src/symbols/Header.js",
+        "/src/symbols/ListItem.js",
+        "/src/symbols/footer1.js",
+        "/src/symbols/HeaderCommentsPage.js",
+        "/src/symbols/card7.js",
+        "/src/symbols/card71.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/screens",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone X",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/sahusoft/Downloads/HackerNews-BuilderX",
+    "tempPath": "/var/folders/_k/4_vjg7s14rv_k1qvysfpw_fm0000gp/T/BuilderCjoa3aa",
+    "useStylesheet": true,
+    "rulers": {},
+    "missingFonts": [
+        "Roboto-Regular"
+    ]
+}

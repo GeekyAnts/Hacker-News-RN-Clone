@@ -1,2 +1,3 @@
-# Hacker-News-RN-Clone
-Hacker News React Native clone built using BuilderX
+# HackerNews RN Clone (BuilderX)
+
+HackerNews React Native clone built using BuilderX
