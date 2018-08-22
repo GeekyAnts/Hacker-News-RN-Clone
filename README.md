@@ -6,8 +6,6 @@ HackerNews React Native clone built using BuilderX
 
 ### Installation Guide
 
-Clone the repo and run the following commands.
-
 ```sh
 $ cd Hacker-News-RN-Clone
 
