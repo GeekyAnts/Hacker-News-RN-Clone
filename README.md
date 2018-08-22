@@ -24,4 +24,4 @@ $ npm run android # or yarn android
 
 ## License
 
-Released under the Apache-2.0 License. Check `LICENSE.md` for more info.
+Released under the MIT License. Check `LICENSE.md` for more info.
