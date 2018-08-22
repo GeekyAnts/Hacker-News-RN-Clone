@@ -1,6 +1,6 @@
 # HackerNews RN Clone (BuilderX)
 
-HackerNews React Native clone built with BuilderX using [Y Combinator's API](https://github.com/HackerNews/API).
+HackerNews React Native clone built with [BuilderX](https://builderx.io/) using [Y Combinator's API](https://github.com/HackerNews/API).
 
 ![Preview](./src/assets/FinalDevice.gif)
 
